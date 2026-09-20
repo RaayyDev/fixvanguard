@@ -1,9 +1,9 @@
 {
-    "latest_version":  "1.0.4",
-    "min_supported_version":  "1.0.4",
-    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.4/FixVanguard.exe",
-    "sha256":  "f3815eede85031ef35f7607c4e627ea518891dddba3b348f9f7f4a45b132ce28",
-    "notes":  "UI rehecha con semaforo estilo macOS y layout minimalista.",
+    "latest_version":  "1.0.5",
+    "min_supported_version":  "1.0.5",
+    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.5/FixVanguard.exe",
+    "sha256":  "c7f3ac176533e381c55d518ad8c243174ba631183f5ae2590f6a40a84cdf1f60",
+    "notes":  "Banderas reales y guia interactiva.",
     "kill_switch":  false,
     "message":  "New version of the loader",
     "discord_url":  "https://discord.gg/berRGr8H6"
