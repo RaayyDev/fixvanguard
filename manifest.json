@@ -1,9 +1,9 @@
 {
-    "latest_version":  "1.0.6",
-    "min_supported_version":  "1.0.6",
-    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.6/FixVanguard.exe",
-    "sha256":  "9bde39852be79d9e7b9debaf5f3943654e40e9524474ca4b880b6b791318dc87",
-    "notes":  "Nuevo dashboard con tabs y guia con fondo real.",
+    "latest_version":  "1.0.7",
+    "min_supported_version":  "1.0.7",
+    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.7/FixVanguard.exe",
+    "sha256":  "038e29d50d87703e519021e624b8245633ce14cf28d218e5cb30545496ae3545",
+    "notes":  "Layout final estilo dashboard con logo Vanguard real.",
     "kill_switch":  false,
     "message":  "New version of the loader",
     "discord_url":  "https://discord.gg/berRGr8H6"
