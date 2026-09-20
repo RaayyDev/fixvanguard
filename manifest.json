@@ -1,10 +1,10 @@
 {
-    "latest_version":  "1.0.0",
-    "min_supported_version":  "1.0.0",
-    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.0/FixVanguard.exe",
-    "sha256":  "38287db733720bdda3e5c827616c256ce5c51ab9adaeae23baf076e1ed8b0d50",
-    "notes":  "Primera versiÃ³n pÃºblica.",
-    "kill_switch":  false,
-    "message":  "Descarga la nueva versiÃ³n desde Discord.",
-    "discord_url":  ""
+  "latest_version": "1.0.1",
+  "min_supported_version": "1.0.1",
+  "download_url": "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.1/FixVanguard.exe",
+  "sha256": "c973863cf3857d93d096951af831568ea4ad3a6d7472863983fda9bb8ef52c12",
+  "notes": null,
+  "kill_switch": false,
+  "message": "New version of the loader",
+  "discord_url": "https://discord.gg/berRGr8H6"
 }
