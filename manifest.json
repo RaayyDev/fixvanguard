@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.1",
-  "min_supported_version": "1.0.1",
-  "download_url": "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.1/FixVanguard.exe",
-  "sha256": "c973863cf3857d93d096951af831568ea4ad3a6d7472863983fda9bb8ef52c12",
-  "notes": null,
-  "kill_switch": false,
-  "message": "New version of the loader",
-  "discord_url": "https://discord.gg/berRGr8H6"
+    "latest_version":  "1.0.3",
+    "min_supported_version":  "1.0.3",
+    "download_url":  "https://github.com/RaayyDev/fixvanguard/releases/download/v1.0.3/FixVanguard.exe",
+    "sha256":  "85a2dddad77d756770da21d50f9bb6e1ce8fa92542a63a52f1ed9dba409b8619",
+    "notes":  "El loader ahora ni abre el menu si esta desactualizado.",
+    "kill_switch":  false,
+    "message":  "New version of the loader",
+    "discord_url":  "https://discord.gg/berRGr8H6"
 }
